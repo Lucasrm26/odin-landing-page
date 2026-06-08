@@ -32,3 +32,8 @@ ul {
     display: flex;
     gap: 24px;
 }
+
+.header-intro {
+    display: flex;
+    justify-content: space-between;
+}
