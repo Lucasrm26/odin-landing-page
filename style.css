@@ -42,3 +42,13 @@ h2 {
     text-align: center;
     margin-bottom: 48px;
 }
+
+main {
+    padding: 0 10%;
+    margin-bottom: 128px;
+}
+
+.main-content {
+    display: flex;
+    justify-content: center;
+}
