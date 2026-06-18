@@ -52,3 +52,13 @@ main {
     display: flex;
     justify-content: center;
 }
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+
+.cards li {
+    flex-basis: 15%;
+}
