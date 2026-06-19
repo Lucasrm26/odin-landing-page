@@ -63,3 +63,17 @@ main {
 .cards li {
     flex-basis: 15%;
 }
+
+.reviews {
+    padding: 0 10%;
+    margin-bottom: 128px;
+}
+
+blockquote {
+    text-align: center;
+    font-size: 36px;
+}
+
+.reviews p {
+    text-align: right;
+}
