@@ -77,3 +77,14 @@ blockquote {
 .reviews p {
     text-align: right;
 }
+
+.signup-container {
+    padding: 0 10%;
+    margin-bottom: 128px;
+}
+
+.signup-alert {
+    display: flex;
+    justify-content: center;
+    gap: 152px;
+}
