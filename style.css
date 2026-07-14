@@ -34,6 +34,12 @@ ul {
 .navbar.right {
     display: flex;
     gap: 24px;
+    font-size: 18px;
+}
+
+.navbar.left a {
+    font-size: 24px;
+    font-weight: 900;
 }
 
 .header-intro {
