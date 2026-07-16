@@ -57,6 +57,21 @@ a:hover {
     justify-content: space-between;
 }
 
+.intro {
+    flex-basis: 45%;
+}
+
+.intro h1 {
+    font-size: 48px;
+    font-weight: 900;
+    margin: 0;
+}
+
+.intro p {
+    font-size: 18px;
+    margin-top: 0;
+}
+
 h2 {
     text-align: center;
     margin-bottom: 48px;
