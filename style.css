@@ -112,6 +112,16 @@ main {
     height: 230px;
 }
 
+.cards a:link,
+.cards a:visited {
+    color: #000;
+    text-align: center;
+}
+
+.cards a:hover {
+    text-decoration: underline;
+}
+
 .reviews {
     padding: 0 10%;
     margin-bottom: 128px;
