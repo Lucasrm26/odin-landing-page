@@ -133,12 +133,15 @@ main {
 }
 
 blockquote {
-    text-align: center;
+    text-align: justify;
     font-size: 36px;
+    font-weight: 300;
+    margin: 0;
 }
 
 .reviews p {
     text-align: right;
+    font-weight: 900;
 }
 
 .signup-container {
