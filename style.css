@@ -127,8 +127,9 @@ main {
 }
 
 .reviews {
-    padding: 0 10%;
+    padding: 36px 10%;
     margin-bottom: 128px;
+    background-color: #dcdfdf;
 }
 
 blockquote {
