@@ -152,7 +152,9 @@ blockquote {
 .signup-alert {
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 152px;
+    padding: 30px;
 }
 
 footer {
