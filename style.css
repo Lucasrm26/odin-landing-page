@@ -157,6 +157,12 @@ blockquote {
     padding: 30px;
 }
 
+.signup-alert, .signup-button {
+    background-color: #05ad98;
+    border-radius: 5px;
+    color: #fff;
+}
+
 footer {
     height: 80px;
     display: flex;
