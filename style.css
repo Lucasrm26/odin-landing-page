@@ -66,6 +66,7 @@ a:hover {
 .header-intro {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .intro {
@@ -97,6 +98,7 @@ a:hover {
 .intro.img img {
     width: 100%;
     height: auto;
+    border-radius: 10px;
 }
 
 button {
