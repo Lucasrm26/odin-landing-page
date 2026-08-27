@@ -140,10 +140,6 @@ main {
     text-align: center;
 }
 
-.cards a:hover {
-    text-decoration: underline;
-}
-
 .reviews {
     padding: 36px 10%;
     margin-bottom: 128px;
