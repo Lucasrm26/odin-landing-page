@@ -139,7 +139,7 @@ main {
 
 .reviews {
     padding: 36px 10%;
-    margin-bottom: 128px;
+    margin:0 0 128px;
     background-color: #dcdfdf;
 }
 
@@ -150,9 +150,10 @@ blockquote {
     margin: 0;
 }
 
-.reviews p {
+.reviews figcaption {
     text-align: right;
     font-weight: 900;
+    margin: 16px 0 16px;
 }
 
 .signup-container {
