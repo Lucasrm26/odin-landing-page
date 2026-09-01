@@ -85,6 +85,7 @@ a:hover {
 }
 
 .intro .link-button {
+    display: inline-block;
     color: #fff;
     font-family: "Roboto", sans-serif;
     font-size: 18px;
@@ -170,6 +171,7 @@ blockquote {
 }
 
 a.signup-button {
+    display: inline-block;
     border: 2px solid #fff;
     padding: 5px 20px;
     font-size: 18px;
